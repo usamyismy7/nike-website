@@ -36,8 +36,8 @@ Open [http://localhost:5173/](http://localhost:5173/) with your browser to see t
 
 ### Desktop view
 
-![Alt text](./assets/image.png)
+![Alt text](https://raw.githubusercontent.com/usamyismy7/nike-website-react-tailwind/master/assets/image.png)
 
 ### Mobile view
 
-![Alt text](./assets/image2.png)
+![Alt text](https://raw.githubusercontent.com/usamyismy7/nike-website-react-tailwind/master/assets/image2.png)
